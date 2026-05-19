@@ -8,13 +8,8 @@ ENV/
 
 # Local Cache & Heavy Models
 hf_cache/
-vector_store/
 __pycache__/
 *.pyc
-
-# Data & Database Outputs
-data/financial_report.db
-outputs/
 
 # OS specific files
 .DS_Store
