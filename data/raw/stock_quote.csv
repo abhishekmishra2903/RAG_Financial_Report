@@ -1,0 +1,2 @@
+symbol,name,price,changePercentage,change,volume,dayLow,dayHigh,yearHigh,yearLow,marketCap,priceAvg50,priceAvg200,exchange,open,previousClose,timestamp
+MSFT,Microsoft Corporation,421.92,3.05058,12.49,50771160,412.92,428.16,555.45,356.28,3134203185600,399.0648,463.13254,NASDAQ,414.41,409.43,1778875201
